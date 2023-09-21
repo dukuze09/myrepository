@@ -14,14 +14,14 @@ body {
     font-family: "lato", sans-serif;
   }
   .signupFrm {
-    background: url("https://pixabay.com/photos/splashing-splash-aqua-water-rain-275950/");
+    background: url("splashing-275950_1280.jpg");
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
   }
   .form {
-    background-color: rgb(237, 243, 245);
+    background-color: lightblue;
     width: 400px;
     border-radius: 8px;
     padding: 20px 40px;
