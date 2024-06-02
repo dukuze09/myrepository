@@ -57,7 +57,7 @@ body {
   
   
   ::placeholder {
-    color: opaque;
+   opacity: 0.5;;
   }
   .label {
     position: absolute;
